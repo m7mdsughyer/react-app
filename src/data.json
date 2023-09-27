@@ -1,0 +1,32 @@
+[
+    {
+        "image_url":"https://www.themealdb.com/images/media/meals/bopa2i1683209167.jpg",
+        "title":"Grilled eggplant with cocunt milk",
+        "description":"Grilled eggplant with coconut milk is a savory and creamy dish that features tender slices of eggplant, grilled to perfection and served in a luscious coconut milk sauce, creating a delightful fusion of flavors and textures."
+
+    },
+    {
+        "image_url":"https://images.food52.com/BGuB7NZDZTaY-tIIfuOYMAz5Vgg=/1008x672/filters:format(webp)/16d3260a-9516-4f95-9e1b-8cdf047c1296--IMG_7882.jpg",
+        "title":"Apple & Blackberry Crumble",
+        "description":"Apple & Blackberry Crumble is a classic dessert made with sweet and tart apples and juicy blackberries, topped with a crispy and buttery crumble topping, baked to golden perfection for a comforting and delicious treat."
+
+    },
+    {
+        "image_url":"https://www.seriouseats.com/thmb/1p1h9Pe3VS4gnUoM0qnren3mO7E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__07__20140714-salmon-salad-yasmin-fahr-1-3f082c8c1ded4e2cbc94c69ffa4efe3a.jpg",
+        "title":"Salmon Avocado Salad",
+        "description":"Salmon Avocado Salad is a fresh and nutritious dish that combines flaky, grilled salmon with creamy avocado slices on a bed of crisp greens, offering a flavorful and healthy meal option."
+
+    },
+    {
+        "image_url":"https://www.kitchensanctuary.com/wp-content/uploads/2022/01/Beef-Chow-Mein-tall-FS-23.webp",
+        "title":"Beef Lo Mein",
+        "description":"Beef Lo Mein is a Chinese stir-fried noodle dish featuring tender strips of beef, vegetables, and egg noodles tossed in a savory soy-based sauce, creating a satisfying and flavorful meal."
+
+    },
+    {
+        "image_url":"https://static01.nyt.com/images/2017/12/05/dining/20COOKING-SPLITPEASOUP2/20COOKING-SPLITPEASOUP2-articleLarge.jpg",
+        "title":"Split Pea Soup",
+        "description":"Split Pea Soup is a hearty and comforting soup made from dried split peas, typically green or yellow, simmered with vegetables, herbs, and often ham or bacon for added flavor."
+
+    }
+]
