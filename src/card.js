@@ -10,7 +10,7 @@ function Cardform (props){
    }
   return(
     <>
-    <Card style={{width: '18rem', marginRight:"1%"}}>
+    <Card style={{width: '18rem', marginRight:"1%", marginTop:"1%"}}>
       <Card.Img variant= "top" src={props.image_url} style={{height:"280px"}}/>
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
